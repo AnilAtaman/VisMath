@@ -4,6 +4,12 @@ import numpy
 import matplotlib.patches as mpatches
 import string
 from colorama import Fore, Back, Style
+"""
+This piece of code was written to calculate derivative of the any function,
+it also plot the derivates 
+
+"""
+
 
 theFunctionPlt = []
 theIncresement = []
